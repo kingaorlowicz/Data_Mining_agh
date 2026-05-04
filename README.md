@@ -3,3 +3,4 @@ This repository contains laboratory notebooks for my Data Mining course (Data Sc
 
 1. Lab1: Dimensionality reduction (PCA)
 2. Lab2: Decision Tree, Random Forest, KNN
+3. Lab3: Cluster Analysis: k-means, DBSCAN, Kohonen clustering
